@@ -87,13 +87,7 @@ cd Student-Performance-Predictor
 4. The application calculates your predicted percentage.
 5. It displays your expected grade, performance level, and personalized study recommendations.
 
----
 
-## 🎯 Future Enhancements
-
-- Student Login Authentication
-- Database Integration
-- Performance History
 - Graphical Performance Analysis
 - Export Results as PDF
 - Cloud Deployment
