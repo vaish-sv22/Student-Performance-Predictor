@@ -88,9 +88,5 @@ cd Student-Performance-Predictor
 5. It displays your expected grade, performance level, and personalized study recommendations.
 
 
-- Graphical Performance Analysis
-- Export Results as PDF
-- Cloud Deployment
-
 
 
